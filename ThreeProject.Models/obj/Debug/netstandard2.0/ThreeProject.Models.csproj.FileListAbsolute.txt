@@ -1,0 +1,8 @@
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/bin/Debug/netstandard2.0/ThreeProject.Models.deps.json
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/bin/Debug/netstandard2.0/ThreeProject.Models.dll
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/bin/Debug/netstandard2.0/ThreeProject.Models.pdb
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/obj/Debug/netstandard2.0/ThreeProject.Models.AssemblyInfoInputs.cache
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/obj/Debug/netstandard2.0/ThreeProject.Models.AssemblyInfo.cs
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/obj/Debug/netstandard2.0/ThreeProject.Models.dll
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/obj/Debug/netstandard2.0/ThreeProject.Models.pdb
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/obj/Debug/netstandard2.0/ThreeProject.Models.csprojAssemblyReference.cache

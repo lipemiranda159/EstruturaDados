@@ -1,0 +1,11 @@
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/bin/Debug/netstandard2.0/ThreeProject.Service.deps.json
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/bin/Debug/netstandard2.0/ThreeProject.Service.dll
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/bin/Debug/netstandard2.0/ThreeProject.Service.pdb
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/bin/Debug/netstandard2.0/ThreeProject.Models.dll
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/bin/Debug/netstandard2.0/ThreeProject.Models.pdb
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/obj/Debug/netstandard2.0/ThreeProject.Service.csprojAssemblyReference.cache
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/obj/Debug/netstandard2.0/ThreeProject.Service.AssemblyInfoInputs.cache
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/obj/Debug/netstandard2.0/ThreeProject.Service.AssemblyInfo.cs
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/obj/Debug/netstandard2.0/ThreeProject.Service.csproj.CopyComplete
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/obj/Debug/netstandard2.0/ThreeProject.Service.dll
+/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/obj/Debug/netstandard2.0/ThreeProject.Service.pdb

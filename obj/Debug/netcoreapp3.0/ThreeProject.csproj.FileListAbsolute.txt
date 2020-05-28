@@ -1,0 +1,16 @@
+/home/felipe/Pessoais/Dados/ThreeProject/obj/Debug/netcoreapp3.0/ThreeProject.csprojAssemblyReference.cache
+/home/felipe/Pessoais/Dados/ThreeProject/obj/Debug/netcoreapp3.0/ThreeProject.AssemblyInfoInputs.cache
+/home/felipe/Pessoais/Dados/ThreeProject/obj/Debug/netcoreapp3.0/ThreeProject.AssemblyInfo.cs
+/home/felipe/Pessoais/Dados/ThreeProject/bin/Debug/netcoreapp3.0/ThreeProject
+/home/felipe/Pessoais/Dados/ThreeProject/bin/Debug/netcoreapp3.0/ThreeProject.deps.json
+/home/felipe/Pessoais/Dados/ThreeProject/bin/Debug/netcoreapp3.0/ThreeProject.runtimeconfig.json
+/home/felipe/Pessoais/Dados/ThreeProject/bin/Debug/netcoreapp3.0/ThreeProject.runtimeconfig.dev.json
+/home/felipe/Pessoais/Dados/ThreeProject/bin/Debug/netcoreapp3.0/ThreeProject.dll
+/home/felipe/Pessoais/Dados/ThreeProject/bin/Debug/netcoreapp3.0/ThreeProject.pdb
+/home/felipe/Pessoais/Dados/ThreeProject/bin/Debug/netcoreapp3.0/ThreeProject.Models.dll
+/home/felipe/Pessoais/Dados/ThreeProject/bin/Debug/netcoreapp3.0/ThreeProject.Service.dll
+/home/felipe/Pessoais/Dados/ThreeProject/bin/Debug/netcoreapp3.0/ThreeProject.Service.pdb
+/home/felipe/Pessoais/Dados/ThreeProject/bin/Debug/netcoreapp3.0/ThreeProject.Models.pdb
+/home/felipe/Pessoais/Dados/ThreeProject/obj/Debug/netcoreapp3.0/ThreeProject.csproj.CopyComplete
+/home/felipe/Pessoais/Dados/ThreeProject/obj/Debug/netcoreapp3.0/ThreeProject.dll
+/home/felipe/Pessoais/Dados/ThreeProject/obj/Debug/netcoreapp3.0/ThreeProject.pdb

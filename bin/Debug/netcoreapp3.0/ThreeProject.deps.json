@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ThreeProject/1.0.0": {
+        "dependencies": {
+          "ThreeProject.Service": "1.0.0"
+        },
+        "runtime": {
+          "ThreeProject.dll": {}
+        }
+      },
+      "ThreeProject.Models/1.0.0": {
+        "runtime": {
+          "ThreeProject.Models.dll": {}
+        }
+      },
+      "ThreeProject.Service/1.0.0": {
+        "dependencies": {
+          "ThreeProject.Models": "1.0.0"
+        },
+        "runtime": {
+          "ThreeProject.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreeProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThreeProject.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThreeProject.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

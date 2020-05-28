@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/ThreeProject.Service.csproj": {}
+  },
+  "projects": {
+    "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/ThreeProject.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/ThreeProject.Models.csproj",
+        "projectName": "ThreeProject.Models",
+        "projectPath": "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/ThreeProject.Models.csproj",
+        "packagesPath": "/home/felipe/.nuget/packages/",
+        "outputPath": "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/felipe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/ThreeProject.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/ThreeProject.Service.csproj",
+        "projectName": "ThreeProject.Service",
+        "projectPath": "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/ThreeProject.Service.csproj",
+        "packagesPath": "/home/felipe/.nuget/packages/",
+        "outputPath": "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/felipe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/ThreeProject.Models.csproj": {
+                "projectPath": "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Models/ThreeProject.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

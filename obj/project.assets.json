@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ThreeProject.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ThreeProject.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ThreeProject.Models.dll": {}
+        }
+      },
+      "ThreeProject.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ThreeProject.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ThreeProject.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ThreeProject.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreeProject.Models/1.0.0": {
+      "type": "project",
+      "path": "ThreeProject.Models/ThreeProject.Models.csproj",
+      "msbuildProject": "ThreeProject.Models/ThreeProject.Models.csproj"
+    },
+    "ThreeProject.Service/1.0.0": {
+      "type": "project",
+      "path": "ThreeProject.Service/ThreeProject.Service.csproj",
+      "msbuildProject": "ThreeProject.Service/ThreeProject.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "ThreeProject.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/felipe/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.csproj",
+      "projectName": "ThreeProject",
+      "projectPath": "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.csproj",
+      "packagesPath": "/home/felipe/.nuget/packages/",
+      "outputPath": "/home/felipe/Pessoais/Dados/ThreeProject/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/home/felipe/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/ThreeProject.Service.csproj": {
+              "projectPath": "/home/felipe/Pessoais/Dados/ThreeProject/ThreeProject.Service/ThreeProject.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
